@@ -12,12 +12,12 @@ namespace WebApp.Controllers
 
         //Action methods 
         // GET: Home
-        public ActionResult Index()
+        public ActionResult Index(
         {
             return View();
         }
 
-        public ActionResult Aboutus()
+        public ActionResult
         {
 
 
